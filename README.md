@@ -13,7 +13,7 @@ All other trademarks and copyrights are property of their respective owners.
 **3)** Replace your server DBCs with the ones from this mod.
 
 # Known Issues / To Do List
-**-** Most Death Knight combinations have bugged face and eye textures.
+**-** Most Death Knight combinations have bugged face and eye textures. Can cause a CTD.
 
 # Credits
 Project Ascension for the character models and textures.\
