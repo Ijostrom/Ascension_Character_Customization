@@ -8,9 +8,10 @@ World of Warcraft, Battle.net, Blizzard Entertainment, and all related trademark
 All other trademarks and copyrights are property of their respective owners.
 
 # Installation
-**1)** Make the appropriate backups. If applicable, merge with your custom DBCs before use.\
-**2)** Put the patch into your client's data folder.\
-**3)** Replace your server DBCs with the ones from this mod.
+**1)** Create an MPQ with the files from this mod, or download the ready-to-use files from [Nexus Mods](https://www.nexusmods.com/worldofwarcraft/mods/907).\
+**2)** Make the appropriate backups. If applicable, merge with your custom DBCs before use.\
+**3)** Put the patch into your client's data folder.\
+**4)** Replace your server DBCs with the ones from this mod.
 
 # Known Issues / To Do List
 **-** Most Death Knight combinations have bugged face and eye textures. Can cause a CTD.
