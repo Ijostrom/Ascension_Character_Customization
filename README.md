@@ -18,7 +18,7 @@ All other trademarks and copyrights are property of their respective owners.
 
 # Credits
 Project Ascension for the character models and textures.\
-[Project Reforged](https://projectreforged.github.io/) for the baked NPC textures, and as a reference for DBC files.
+Project Reforged for the baked NPC textures, and as a reference for DBC files. [Website](https://projectreforged.github.io/) and [Discord](https://discord.gg/jnvkayMbqJ).
 
 # Screenshots
 <img width="3600" height="800" alt="Combined (1)" src="https://github.com/user-attachments/assets/0a5751fd-6c52-44eb-ad19-a795d0f395f6" />
