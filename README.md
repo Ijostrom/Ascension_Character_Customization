@@ -1,5 +1,5 @@
 # Ascension Character Customization
-Base HD character models and NPCs for WotLK 3.3.5a, with Project Ascension's extra character customization options, and tweaked DBCs.
+Base WoD HD character/NPC models for WotLK 3.3.5a, with the addition of the 100+ extra character customization options from Project Ascension.
 
 ### Disclaimer
 This project is for educational purposes only.
@@ -22,3 +22,4 @@ Project Reforged for the baked NPC textures, and as a reference for DBC files. [
 
 # Screenshots
 <img width="3600" height="800" alt="Combined (1)" src="https://github.com/user-attachments/assets/0a5751fd-6c52-44eb-ad19-a795d0f395f6" />
+This is just a small sample of the total amount of combinations.
