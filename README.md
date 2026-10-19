@@ -19,4 +19,5 @@ Project Reforged for the baked NPC textures, and as a reference for DBC files. [
 
 # Screenshots
 <img width="3600" height="800" alt="Combined (1)" src="https://github.com/user-attachments/assets/0a5751fd-6c52-44eb-ad19-a795d0f395f6" />
+<img width="2400" height="800" alt="Combined (3)" src="https://github.com/user-attachments/assets/a7f6f33e-54f9-4af6-8a12-c3948000b379" />
 This is just a small sample of the total amount of new combinations.
