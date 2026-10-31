@@ -1,5 +1,6 @@
 # Ascension Character Customization
-Base WoD HD character/NPC models for WotLK 3.3.5a, with the addition of the entire 500+ extra character customization options from Project Ascension.
+Base WoD HD character/NPC models for WotLK 3.3.5a, with the addition of the entire 500+ extra character customization options from Project Ascension.\
+Can be used alongside Project Reforged patches in place of the "Player Characters & NPCs" patch.
 
 ### Disclaimer
 This project is for educational purposes only.
@@ -15,7 +16,7 @@ All other trademarks and copyrights are property of their respective owners.
 
 # Credits
 Project Ascension for the character models and textures.\
-Project Reforged for the baked NPC textures, and as a reference for DBC files. [Website](https://projectreforged.github.io/) and [Discord](https://discord.gg/jnvkayMbqJ).
+Project Reforged for the baked NPC textures, some character textures, and tabard textures. [Website](https://projectreforged.github.io/) and [Discord](https://discord.gg/4mDnkgHGvS).
 
 # Screenshots
 <img width="3600" height="800" alt="Combined (1)" src="https://github.com/user-attachments/assets/0a5751fd-6c52-44eb-ad19-a795d0f395f6" />
